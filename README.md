@@ -1,1 +1,1 @@
-# private
+devops 스터디
